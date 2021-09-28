@@ -4,7 +4,7 @@
 
 dit is _interesant_ zeg
 
-![taart](/C:/image.png "taart")
+![taart](/C:/image .png "taart")
 
 ## Bereiding: Klassieke slagroomtaart
 Bak de biscuitbodem als in het basisrecept staat en laat het helemaal afkoelen.
