@@ -4,7 +4,7 @@
 
 dit is _interesant_ zeg
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oetker.nl%2Fnl-nl%2Frecept%2Fr%2Fluxe-slagroomtaart-met-fruit&psig=AOvVaw1wuu7ILx-MvqknfUVUp0HN&ust=1632910655692000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDY5K64ofMCFQAAAAAdAAAAABAD"taart")
+![alt text](https://www.oetker.nl/Recipe/Recipes/oetker.nl/nl-nl/gateaux/image-thumb__18259__RecipeDetailsLightBox/luxe-slagroomtaart-met-fruit.jpg)
 
 ## Bereiding: Klassieke slagroomtaart
 Bak de biscuitbodem als in het basisrecept staat en laat het helemaal afkoelen.
