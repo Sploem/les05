@@ -3,7 +3,7 @@
 ### dit is nog interesanter
 
 dit is _interesant_ zeg
-![](image.png)
+![](image .png)
 ## Bereiding: Klassieke slagroomtaart
 Bak de biscuitbodem als in het basisrecept staat en laat het helemaal afkoelen.
 
